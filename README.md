@@ -4,9 +4,9 @@
  http://www.inf.furb.br/~poo/transparencias/poo-JavaBasico.pdf
 
  Básicos:
-	Tipos de dados
-	Literais
-	Operadores
-	Expressões
-	Variáveis
+	Tipos de dados,
+	Literais,
+	Operadores,
+	Expressões,
+	Variáveis,
 	Fluxo de execução
